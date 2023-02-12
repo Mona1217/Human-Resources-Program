@@ -8,7 +8,7 @@ Java code for a company to manage the candidates for a job
 - A file where they can save the information for a later use
 - The respective requirements of create, delete, update, search and read
 
-## Photos of the programm
+## Photos of the program
 
 ![image](https://user-images.githubusercontent.com/124631450/218286278-b788acde-2a17-415b-b6d0-0181946126e8.png)
 
